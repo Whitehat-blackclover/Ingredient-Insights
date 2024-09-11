@@ -12,4 +12,12 @@ img = img.convert('L')
 enhancer = ImageEnhance.Contrast(img)
 img = enhancer.enhance(2)
 
-img.save('processed_test_image.jpg')
+#Improving resolution 
+new_size = (img.width*2, img.height*2)
+img = img.resize(new_size, Image.LANCZOS)
+
+#Sharpening the image 
+sharpness_enhancer = ImageEnhance.Sharpness(img)
+img = sharpness_enhancer.enhance(0.1)
+
+img.save('processed_test_image6.jpg')

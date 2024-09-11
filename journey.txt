@@ -1,3 +1,5 @@
 1st Iteration:
     Use of OCR (Optical Character Recognition)
     Usage of Libs : Tesseract and Pillow
+
+2nd Iteration
