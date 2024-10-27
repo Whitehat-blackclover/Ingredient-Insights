@@ -1,5 +1,3 @@
-COLGATE,,,
-,,,
 Ingredient,Description,Origin,Health Impact
 Fluoride,Strengthens tooth enamel and prevents cavities,"Naturally found in water, rocks, and soil",Healthy in regulated amounts
 "Abrasives (e.g., Calcium Carbonate, Silica)",Scrubs away plaque and food particles,Derived from rocks (limestone) and sand,Generally healthy but excessive use can wear enamel
@@ -12,9 +10,6 @@ Sodium Lauryl Sulfate (SLS),Surfactant that helps toothpaste foam,"Derived from 
 "Colorants (e.g., Titanium Dioxide)",Used for whitening or giving toothpaste a uniform color,Titanium dioxide is a naturally occurring mineral,"Safe, though concerns exist in food usage"
 "Antibacterial Agents (e.g., Triclosan, Zinc Citrate)",Controls plaque and gingivitis,"Triclosan is synthetic, zinc citrate derived from zinc","Triclosan is controversial, zinc citrate is safe"
 Water,Solvent used to dissolve other ingredients,Purified and deionized water,Safe and essential
-,,,
-PEPSODENT,,,
-Ingredient,Description,Origin,Health Impact
 Fluoride,Prevents cavities by strengthening tooth enamel and fighting tooth decay,Chemically synthesized,Healthy in regulated amounts
 Calcium Carbonate,A mild abrasive used to remove plaque and surface stains,Sourced from minerals like limestone or chalk,Healthy for external use
 Sodium Lauryl Sulfate (SLS),A surfactant that helps the toothpaste foam,"Derived from natural oils, chemically processed",Mildly irritating for some people
@@ -27,13 +22,9 @@ Titanium Dioxide,A whitening agent for bright appearance,Naturally occurring min
 Menthol/Flavors,Flavoring agents like menthol or mint for fresh taste,Derived from peppermint oil or synthesized,Healthy
 Triclosan,An antibacterial agent used to prevent gum disease,Chemically synthesized,Controversial
 PEG-12 (Polyethylene Glycol),A stabilizer and emulsifier for keeping ingredients blended,Chemically synthesized from petroleum-based compounds,Generally safe
-,,,
-SENSODYNE,,,
-,,,
-Ingredient,Description,Origin,Health Consideration
 Potassium Nitrate,Active ingredient to reduce tooth sensitivity by calming nerves inside the teeth.,Naturally occurring or synthetically produced.,"Safe for use in toothpaste, helps desensitize teeth."
 Fluoride (Sodium Fluoride or Stannous Fluoride),"Strengthens enamel and prevents cavities, commonly used in many toothpastes.",Naturally occurring mineral found in water and soil.,Safe and effective for cavity prevention but overuse may cause fluorosis.
-Sorbitol,Used as a sweetener and humectant to retain moisture.,"Derived from corn syrup or fruits (apples, berries).","Safe, non-cariogenic and doesn’t cause cavities."
+Sorbitol,Used as a sweetener and humectant to retain moisture.,"Derived from corn syrup or fruits (apples, berries).","Safe, non-cariogenic and doesnï¿½t cause cavities."
 Hydrated Silica,A mild abrasive to remove surface stains and polish teeth.,Derived from naturally occurring silica found in quartz and sand.,"Safe for use as a mild abrasive, non-damaging to enamel."
 Sodium Lauryl Sulfate (SLS),A surfactant that creates foam and spreads toothpaste evenly.,"Derived from coconut or palm oils, also synthetically produced.","Safe, but may cause irritation for some sensitive users."
 Titanium Dioxide,Whitening agent used to give toothpaste a bright white color.,Naturally occurring mineral from titanium ore.,"Generally safe, concerns arise only in large-scale ingestion."
@@ -42,10 +33,6 @@ Sodium Saccharin,Artificial sweetener to improve taste of the toothpaste.,Synthe
 Xanthan Gum,A thickening agent that provides texture and consistency.,Produced through fermentation of sugars by bacteria.,"Safe, non-toxic, biodegradable."
 PEG-8 (Polyethylene Glycol),Used as a solvent and thickener to maintain consistency.,Synthetically produced from ethylene oxide and water.,"Safe, but concerns with contamination are rare in topical use."
 Cocamidopropyl Betaine,A mild surfactant derived from coconut oil to improve foam.,Derived from coconut oil and dimethylaminopropylamine.,"Safe, but can cause mild irritation in some individuals."
-,,,
-MESWAK,,,
-,,,
-Ingredient,Description,Origin,Healthy?
 Meswak (Miswak) Extract,Main active ingredient derived from Salvadora persica tree,"Middle East, parts of Africa, South Asia",Yes
 Calcium Carbonate,Mild abrasive used for removing plaque and stains,Naturally found in rocks,Yes
 Silica,Gentle abrasive for cleaning and polishing teeth,Derived from sand or quartz,Yes
@@ -59,20 +46,12 @@ Xanthan Gum,Thickening agent to maintain consistency,Derived from fermented suga
 Sodium Benzoate,Preservative that prevents bacterial growth,Synthesized or found naturally in fruits,Generally considered safe
 "Essential Oils (e.g., Peppermint Oil, Eucalyptus Oil)",Used for flavoring and antibacterial properties,Derived from plants like peppermint or eucalyptus,Yes
 Water,Solvent to mix and stabilize ingredients,Naturally sourced,Yes
-,,,
-DABUR,,,
-,,,
-Ingredient,Description,Origin,Health Impact
 Clove Oil (Lavanga),"Contains eugenol, which has antibacterial, antifungal, and analgesic properties.",Indonesia,"Healthy for oral care, fights germs and relieves pain."
 Peppermint (Pudina Satva),"Cooling and anti-inflammatory effects, freshens breath and fights germs.",Europe and Middle East,"Promotes oral hygiene, antimicrobial."
 Long Pepper (Pippali),"Contains piperine with antifungal and antibacterial properties, used to relieve toothache.",Indian subcontinent and Southeast Asia,"Beneficial for oral hygiene, reduces bacterial infections."
 Camphor (Karpura),"Has mild anesthetic and antimicrobial properties, offers relief from tooth sensitivity and pain.",Asia,"Effective for dental pain, moderate use recommended."
 Black Pepper (Maricha),"Possesses antibacterial and antioxidant properties, aids in reducing oral infections.",South India,"Helps fight infections, improves gum health."
 Tomar (Zanthoxylum armatum),Traditionally used for cleaning teeth and strengthening gums.,Himalayan region,"Beneficial for oral hygiene, reduces gum problems."
-,,,
-CLOSE UP,,,
-,,,
-Ingredient,Function,Origin,Health Impact
 Sodium Fluoride,Prevents cavities by strengthening enamel,Naturally occurring mineral,"Beneficial in small quantities, harmful if ingested in large amounts"
 Sorbitol,Retains moisture in toothpaste,Derived from fruits like apples and berries,"Generally safe, non-cariogenic but can cause gastrointestinal discomfort if ingested in large amounts"
 Hydrated Silica,Removes plaque and surface stains,Derived from silicon dioxide (sand/quartz),"Safe in moderation, excessive use can damage enamel"
@@ -80,10 +59,6 @@ Sodium Lauryl Sulfate (SLS),Creates foam to distribute toothpaste,Synthesized fr
 "Flavoring Agents (Cinnamon, Saccharin)",Adds flavor,Synthetic or natural; saccharin is an artificial sweetener,"Safe in small quantities, some concerns over artificial sweeteners"
 "Colorants (Red 33, Red 40)",Provides color,Synthetic dyes,"Approved for use, some concerns about long-term safety"
 Zinc Sulfate,Reduces bad breath,Naturally occurring mineral,Safe and beneficial for oral health
-,,,
-Vicco,,,
-,,,
-Ingredient,Origin,Function,Healthiness
 Babhul (Acacia arabica),"Indian subcontinent, Africa","Astringent, tightens and tones gums",Healthy
 Lavang (Clove),"Indonesia, tropical regions","Antibacterial, reduces tooth decay and bad breath",Healthy
 Bakul (Mimusops elengi),"South Asia, Southeast Asia",Strengthens teeth and gums,Healthy
@@ -92,11 +67,6 @@ Common Jujube (Ziziphus jujuba),"Southern Asia, China, India","Supports oral hea
 Sodium Lauryl Sulfate (SLS),Synthetic from coconut or palm oil,"Foaming agent, helps cleaning",Can be irritating to sensitive gums
 Fine Chalk,Natural deposits,"Abrasive, helps clean teeth",Safe in small amounts
 Sorbitol,"Derived from fruits like berries, seaweed","Sweetening agent, humectant",Generally safe and non-cariogenic
-,,,
-,,,
-PATANJALI,,,
-,,,
-Ingredient,Origin,Description,Health Status
 Neem (Azadirachta indica),India,"Antibacterial, antifungal, and anti-inflammatory, used to fight plaque and prevent tooth decay.",Healthy
 Clove (Syzygium aromaticum),Indonesia,"Analgesic, antiseptic, used for toothaches and bad breath.",Healthy
 Babool (Acacia arabica),Africa and India,"Antimicrobial, strengthens gums and reduces inflammation.",Healthy
@@ -106,11 +76,6 @@ Meswak (Salvadora persica),"Middle East, Africa, and India","Traditional toothbr
 Turmeric (Curcuma longa),South Asia,"Anti-inflammatory and antiseptic, reduces gum inflammation.",Healthy
 Vidang (Embelia ribes),Tropical regions of India,"Antibacterial, treats oral infections.",Healthy
 Majufal (Quercus infectoria),Mediterranean and South Asia,"Astringent, tightens gums and reduces bleeding.",Healthy
-,,,
-,,,
-HIMALAYA,,,
-,,,
-Ingredient,Description,Origin,Health Impact
 Neem,Antibacterial; combats oral bacteria and reduces plaque.,"Azadirachta indica, Indian subcontinent",Generally healthy; promotes oral health.
 Pomegranate,Rich in antioxidants; helps maintain healthy gums.,Middle East and South Asia,Healthy; beneficial for oral hygiene.
 Babul,Astringent properties; used for oral health.,Indigenous to the Indian subcontinent,Healthy; supports gum health.
@@ -119,10 +84,6 @@ Clove Oil,Analgesic properties; relieves toothache.,"Syzygium aromaticum, Spice 
 Turmeric,Anti-inflammatory and antibacterial properties.,Native to South Asia,Healthy; supports oral health.
 Fennel,Antimicrobial; helps freshen breath.,Native to the Mediterranean region,Healthy; promotes digestive and oral health.
 Sodium Fluoride,Remineralizes enamel; prevents cavities.,Naturally occurring mineral,Generally healthy in appropriate amounts; aids dental health.
-,,,
-MAMAEARTH,,,
-,,,
-Ingredient,Description,Origin,Health Consideration
 Activated Charcoal,Known for its adsorptive properties; helps remove stains.,"Derived from carbon-rich materials (wood, coconut shells, peat)",Generally safe; excessive use may lead to enamel wear.
 Neem,Contains antibacterial properties; reduces plaque and gum disease.,Indigenous to the Indian subcontinent and other tropical regions,Beneficial for oral health.
 Tulsi (Holy Basil),"Has antibacterial, antiviral, and anti-inflammatory properties.",Native to the Indian subcontinent,Reduces inflammation and fights bacteria.
