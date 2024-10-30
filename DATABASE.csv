@@ -1,48 +1,29 @@
 Ingredient,Description,Origin,Health Impact
 Fluoride,Strengthens tooth enamel and prevents cavities,"Naturally found in water, rocks, and soil",Healthy in regulated amounts
-"Abrasives (e.g., Calcium Carbonate, Silica)",Scrubs away plaque and food particles,Derived from rocks (limestone) and sand,Generally healthy but excessive use can wear enamel
+Abrasives,Scrubs away plaque and food particles,Derived from rocks (limestone) and sand,Generally healthy but excessive use can wear enamel
 Glycerin,Retains moisture to prevent toothpaste from drying out,Derived from plant oils or synthetically made,Safe and non-toxic
 Sodium Lauryl Sulfate (SLS),Surfactant that helps toothpaste foam,"Derived from coconut or palm oil, or synthetically","Controversial, may cause irritation"
-"Flavoring Agents (e.g., Mint, Sorbitol)","Provides flavor, typically minty","Mint from peppermint/spearmint, sorbitol from corn syrup","Healthy, does not contribute to cavities"
-"Humectants (e.g., Propylene Glycol, Sorbitol)",Retains moisture in toothpaste,"Propylene glycol is synthetic, sorbitol from fruits","Generally safe, but some people are sensitive"
-"Thickeners (e.g., Xanthan Gum, Carrageenan)",Gives toothpaste its gel-like consistency,"Xanthan gum from bacterial fermentation, carrageenan from seaweed","Safe, though carrageenan has debated effects"
-"Preservatives (e.g., Sodium Benzoate)",Prevents microbial growth to extend shelf life,Sodium benzoate is synthetic but also in fruits,Safe in regulated amounts
-"Colorants (e.g., Titanium Dioxide)",Used for whitening or giving toothpaste a uniform color,Titanium dioxide is a naturally occurring mineral,"Safe, though concerns exist in food usage"
-"Antibacterial Agents (e.g., Triclosan, Zinc Citrate)",Controls plaque and gingivitis,"Triclosan is synthetic, zinc citrate derived from zinc","Triclosan is controversial, zinc citrate is safe"
+Flavoring Agents,"Provides flavor, typically minty","Mint from peppermint/spearmint, sorbitol from corn syrup","Healthy, does not contribute to cavities"
+Humectants,Retains moisture in toothpaste,"Propylene glycol is synthetic, sorbitol from fruits","Generally safe, but some people are sensitive"
+Thickeners,Gives toothpaste its gel-like consistency,"Xanthan gum from bacterial fermentation, carrageenan from seaweed","Safe, though carrageenan has debated effects"
+Preservatives,Prevents microbial growth to extend shelf life,Sodium benzoate is synthetic but also in fruits,Safe in regulated amounts
+Colorants,Used for whitening or giving toothpaste a uniform color,Titanium dioxide is a naturally occurring mineral,"Safe, though concerns exist in food usage"
+Antibacterial Agents,Controls plaque and gingivitis,"Triclosan is synthetic, zinc citrate derived from zinc","Triclosan is controversial, zinc citrate is safe"
 Water,Solvent used to dissolve other ingredients,Purified and deionized water,Safe and essential
-Fluoride,Prevents cavities by strengthening tooth enamel and fighting tooth decay,Chemically synthesized,Healthy in regulated amounts
 Calcium Carbonate,A mild abrasive used to remove plaque and surface stains,Sourced from minerals like limestone or chalk,Healthy for external use
-Sodium Lauryl Sulfate (SLS),A surfactant that helps the toothpaste foam,"Derived from natural oils, chemically processed",Mildly irritating for some people
-Silica,A gentle abrasive that scrubs away plaque and food debris,Derived from natural minerals like quartz,Healthy
-Glycerin,A humectant that keeps the toothpaste from drying out,Derived from plant oils or synthetically produced,Healthy
 Sodium Saccharin,An artificial sweetener used to enhance flavor without adding sugar,Chemically synthesized,Healthy in moderation
-Hydrated Silica,A thickening agent and abrasive for improved texture and cleaning,Derived from natural silica,Healthy
 Xanthan Gum,A thickening and stabilizing agent that ensures smooth texture,Natural product from fermentation of sugar,Healthy
 Titanium Dioxide,A whitening agent for bright appearance,Naturally occurring mineral,"Controversial, but safe in small amounts"
-Menthol/Flavors,Flavoring agents like menthol or mint for fresh taste,Derived from peppermint oil or synthesized,Healthy
 Triclosan,An antibacterial agent used to prevent gum disease,Chemically synthesized,Controversial
 PEG-12 (Polyethylene Glycol),A stabilizer and emulsifier for keeping ingredients blended,Chemically synthesized from petroleum-based compounds,Generally safe
 Potassium Nitrate,Active ingredient to reduce tooth sensitivity by calming nerves inside the teeth.,Naturally occurring or synthetically produced.,"Safe for use in toothpaste, helps desensitize teeth."
-Fluoride (Sodium Fluoride or Stannous Fluoride),"Strengthens enamel and prevents cavities, commonly used in many toothpastes.",Naturally occurring mineral found in water and soil.,Safe and effective for cavity prevention but overuse may cause fluorosis.
 Sorbitol,Used as a sweetener and humectant to retain moisture.,"Derived from corn syrup or fruits (apples, berries).","Safe, non-cariogenic and doesn�t cause cavities."
 Hydrated Silica,A mild abrasive to remove surface stains and polish teeth.,Derived from naturally occurring silica found in quartz and sand.,"Safe for use as a mild abrasive, non-damaging to enamel."
-Sodium Lauryl Sulfate (SLS),A surfactant that creates foam and spreads toothpaste evenly.,"Derived from coconut or palm oils, also synthetically produced.","Safe, but may cause irritation for some sensitive users."
-Titanium Dioxide,Whitening agent used to give toothpaste a bright white color.,Naturally occurring mineral from titanium ore.,"Generally safe, concerns arise only in large-scale ingestion."
-Glycerin,Prevents toothpaste from drying out and maintains smooth texture.,"Derived from plant oils (palm, soy, coconut).","Safe, widely used in oral care products."
-Sodium Saccharin,Artificial sweetener to improve taste of the toothpaste.,Synthetically produced from chemicals like toluene.,"Safe in small amounts, previous concerns disproved."
-Xanthan Gum,A thickening agent that provides texture and consistency.,Produced through fermentation of sugars by bacteria.,"Safe, non-toxic, biodegradable."
 PEG-8 (Polyethylene Glycol),Used as a solvent and thickener to maintain consistency.,Synthetically produced from ethylene oxide and water.,"Safe, but concerns with contamination are rare in topical use."
 Cocamidopropyl Betaine,A mild surfactant derived from coconut oil to improve foam.,Derived from coconut oil and dimethylaminopropylamine.,"Safe, but can cause mild irritation in some individuals."
 Meswak (Miswak) Extract,Main active ingredient derived from Salvadora persica tree,"Middle East, parts of Africa, South Asia",Yes
-Calcium Carbonate,Mild abrasive used for removing plaque and stains,Naturally found in rocks,Yes
 Silica,Gentle abrasive for cleaning and polishing teeth,Derived from sand or quartz,Yes
-Sodium Lauryl Sulfate (SLS),Surfactant used to create foam while brushing,Synthesized from coconut or palm kernel oil,Controversial
-Glycerin,Humectant that keeps toothpaste moist,Derived from plant oils or synthesized,Yes
 Sorbitol,Sweetener and humectant to maintain moisture,Derived from fruits or synthesized from glucose,Yes
-Sodium Saccharin,Artificial sweetener to add pleasant taste,Synthesized from chemical compounds,Generally considered safe
-Fluoride (Optional),Mineral that strengthens enamel and prevents cavities,Naturally occurring mineral,Yes
-Titanium Dioxide,Whitening agent for a bright appearance,"Naturally occurring mineral, processed",Generally considered safe
-Xanthan Gum,Thickening agent to maintain consistency,Derived from fermented sugar,Yes
 Sodium Benzoate,Preservative that prevents bacterial growth,Synthesized or found naturally in fruits,Generally considered safe
 "Essential Oils (e.g., Peppermint Oil, Eucalyptus Oil)",Used for flavoring and antibacterial properties,Derived from plants like peppermint or eucalyptus,Yes
 Water,Solvent to mix and stabilize ingredients,Naturally sourced,Yes
@@ -52,19 +33,13 @@ Long Pepper (Pippali),"Contains piperine with antifungal and antibacterial prope
 Camphor (Karpura),"Has mild anesthetic and antimicrobial properties, offers relief from tooth sensitivity and pain.",Asia,"Effective for dental pain, moderate use recommended."
 Black Pepper (Maricha),"Possesses antibacterial and antioxidant properties, aids in reducing oral infections.",South India,"Helps fight infections, improves gum health."
 Tomar (Zanthoxylum armatum),Traditionally used for cleaning teeth and strengthening gums.,Himalayan region,"Beneficial for oral hygiene, reduces gum problems."
-Sodium Fluoride,Prevents cavities by strengthening enamel,Naturally occurring mineral,"Beneficial in small quantities, harmful if ingested in large amounts"
 Sorbitol,Retains moisture in toothpaste,Derived from fruits like apples and berries,"Generally safe, non-cariogenic but can cause gastrointestinal discomfort if ingested in large amounts"
-Hydrated Silica,Removes plaque and surface stains,Derived from silicon dioxide (sand/quartz),"Safe in moderation, excessive use can damage enamel"
-Sodium Lauryl Sulfate (SLS),Creates foam to distribute toothpaste,Synthesized from coconut/palm oils,"Generally safe, may irritate mouth's soft tissues"
-"Flavoring Agents (Cinnamon, Saccharin)",Adds flavor,Synthetic or natural; saccharin is an artificial sweetener,"Safe in small quantities, some concerns over artificial sweeteners"
-"Colorants (Red 33, Red 40)",Provides color,Synthetic dyes,"Approved for use, some concerns about long-term safety"
 Zinc Sulfate,Reduces bad breath,Naturally occurring mineral,Safe and beneficial for oral health
 Babhul (Acacia arabica),"Indian subcontinent, Africa","Astringent, tightens and tones gums",Healthy
 Lavang (Clove),"Indonesia, tropical regions","Antibacterial, reduces tooth decay and bad breath",Healthy
 Bakul (Mimusops elengi),"South Asia, Southeast Asia",Strengthens teeth and gums,Healthy
 Indian Licorice Root (Mulethi),"Europe, Asia, Middle East","Natural cleanser, reduces gum inflammation",Healthy
 Common Jujube (Ziziphus jujuba),"Southern Asia, China, India","Supports oral health, reduces bacterial growth",Healthy
-Sodium Lauryl Sulfate (SLS),Synthetic from coconut or palm oil,"Foaming agent, helps cleaning",Can be irritating to sensitive gums
 Fine Chalk,Natural deposits,"Abrasive, helps clean teeth",Safe in small amounts
 Sorbitol,"Derived from fruits like berries, seaweed","Sweetening agent, humectant",Generally safe and non-cariogenic
 Neem (Azadirachta indica),India,"Antibacterial, antifungal, and anti-inflammatory, used to fight plaque and prevent tooth decay.",Healthy
