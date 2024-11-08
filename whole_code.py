@@ -41,15 +41,16 @@ def text_cleaning(img_path='test_image.png'):
     clean_text = re.sub(r'[^a-zA-Z0-9, ]', '', extracted_text)
     
     # Split the cleaned text into a list of ingredients
-    ingredients = [i.strip().lower() for i in clean_text.split(',') if i]
+    ingredients = [i.strip().capitalize() for i in clean_text.split(',') if i]
     
     # Remove "ingredients" or any similar unwanted term from the start of the list
-    if ingredients and 'ingredients' in ingredients[0]:
+    if ingredients and 'Ingredients' in ingredients[0]:
         ingredients.pop(0)
     return ingredients
 
 # Load the cleaned database
 database_path = 'DATABASE.csv'
+df_database = None
 try:
     df_database = pd.read_csv(database_path)
 except Exception as e:
@@ -57,6 +58,10 @@ except Exception as e:
 
 # Define function to retrieve information from database based on ingredient list
 def get_ingredient_info(ingredient_list):
+    if df_database is None:
+        print("Database not loaded. Skipping ingredient information retrieval.")
+        return {}
+
     # Dictionary to store ingredient information
     ingredient_info = {}
 
@@ -84,7 +89,7 @@ ingredient_details = get_ingredient_info(ingredient_list)
 
 # Print the information for each ingredient
 for ingredient, details in ingredient_details.items():
-    print(f"Ingredient: {ingredient.capitalize()}")
+    print(f"Ingredient: {ingredient}")
     if isinstance(details, dict):
         print("  - Description:", details.get('Description', 'N/A'))
         print("  - Origin:", details.get('Origin', 'N/A'))
