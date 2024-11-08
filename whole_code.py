@@ -49,7 +49,7 @@ def text_cleaning(img_path='test_image.png'):
     return ingredients
 
 # Load the cleaned database
-database_path = 'cleaned_data.csv'
+database_path = 'DATABASE.csv'
 try:
     df_database = pd.read_csv(database_path)
 except Exception as e:
@@ -62,16 +62,15 @@ def get_ingredient_info(ingredient_list):
 
     for ingredient in ingredient_list:
         # Filter database for matching ingredient
-        match = df_database[df_database['ingredients_text_en'].str.contains(re.escape(ingredient), case=False, na=False)]
+        match = df_database[df_database['Ingredient'].str.contains(re.escape(ingredient), case=False, na=False)]
 
         if not match.empty:
             # Extract relevant info for the matched ingredient
             info = {
-                'product_name': match.iloc[0]['product_name_en'] if 'product_name_en' in match.columns else None,
-                'brand': match.iloc[0]['brands'] if 'brands' in match.columns else None,
-                'category': match.iloc[0]['categories'] if 'categories' in match.columns else None,
-                'origin': match.iloc[0]['origins'] if 'origins' in match.columns else None,
-                'country': match.iloc[0]['countries'] if 'countries' in match.columns else None,
+                'Ingredient': match.iloc[0]['Ingredient'] if 'Ingredient' in match.columns else None,
+                'Description': match.iloc[0]['Description'] if 'Description' in match.columns else None,
+                'Origin': match.iloc[0]['Origin'] if 'Origin' in match.columns else None,
+                'Health Impact': match.iloc[0]['Health Impact'] if 'Health Impact' in match.columns else None,
             }
             ingredient_info[ingredient] = info
         else:
@@ -87,12 +86,9 @@ ingredient_details = get_ingredient_info(ingredient_list)
 for ingredient, details in ingredient_details.items():
     print(f"Ingredient: {ingredient.capitalize()}")
     if isinstance(details, dict):
-        print("  - Product Name:", details.get('product_name', 'N/A'))
-        print("  - Brand:", details.get('brand', 'N/A'))
-        print("  - Category:", details.get('category', 'N/A'))
-        print("  - Origin:", details.get('origin', 'N/A'))
-        print("  - Country:", details.get('country', 'N/A'))
-        print("  - Information:", details)
+        print("  - Description:", details.get('Description', 'N/A'))
+        print("  - Origin:", details.get('Origin', 'N/A'))
+        print("  - Health Impact:", details.get('Health Impact', 'N/A'))
     else:
         print("  - Information:", details)
     print("\n" + "-" * 40 + "\n")
